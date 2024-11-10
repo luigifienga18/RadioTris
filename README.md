@@ -8,6 +8,7 @@ RadioTris was a project developed during the tenth edition of the "Neapolis Inno
 
 Raffaele del Gaudio, Luigi Fienga, Benito Cervone, Emanuele Barbato, Simona Borrasso, Vincenzo D'Anza, Emanuele Coppetta e Vittorio Imbimbo.
 
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
